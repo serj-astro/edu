@@ -1,0 +1,2 @@
+# edu
+GitHub training
